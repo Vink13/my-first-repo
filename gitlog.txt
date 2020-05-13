@@ -1,0 +1,17 @@
+commit bb9d8735489caae49df8c145e03894a291557a9e
+Author: Vink13 <vinko.besic@gmail.com>
+Date:   Tue May 12 15:54:55 2020 +0200
+
+    added gitignore
+
+commit 7fe6d5fb4330ad6a1b9ee022e38359af77393ac4
+Author: Vink13 <vinko.besic@gmail.com>
+Date:   Tue May 12 15:14:27 2020 +0200
+
+    added two files
+
+commit d2267ed8b01c5fa4ebffa77383d6374a0bf32f9b
+Author: Vink13 <vinko.besic@gmail.com>
+Date:   Tue May 12 15:07:10 2020 +0200
+
+    added readme.txt
