@@ -9,7 +9,7 @@ I live in the city of Paris, in France.
 Three of my favorite books are:
 - *Meditations* by Marcus Aurelius
 - *The old man and the sea* by Ernest Hemingway*
-- * *.discworld * by Terry Pratchett
+- *Discworld* by Terry Pratchett
 
 ### Contact
 
